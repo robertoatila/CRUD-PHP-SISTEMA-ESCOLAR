@@ -22,7 +22,7 @@ Plataforma full-stack para gestão escolar integrada com Supabase, SendGrid e Op
 | ![Alunos](./escola/screenshots/alunos.png)| ![Professores](./escola/screenshots/professores.png) |
 | ![Notas](./escola/screenshots/notas.png)| ![Presença](./escola/screenshots/presenca.png)|
 | ![Relatórios](./escola/screenshots/relatorios.png) | ![Usuários](./escola/screenshots/usuarios.png) |
-  ![Tokens](.escola/screenshots/tokens.png) 
+  ![Tokens](./escola/screenshots/tokens.png) 
 ## 🛠️ Tech Stack
 
 **Frontend:** React 18 + TypeScript + Tailwind CSS + Vite  
