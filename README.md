@@ -18,10 +18,10 @@ Plataforma full-stack para gestão escolar integrada com Supabase, SendGrid e Op
 
 | | |
 |---|---|
-| ![Dashboard](./escola/screenshots/dashboard.png) | ![Alunos](./escola/screenshots/alunos.png) |
+| ![Login](./escola/screenshots/login.png)| ![Dashboard](./escola/screenshots/dashboard.png) |
 | ![Notas](./escola/screenshots/notas.png) | ![Presença](./escola/screenshots/presenca.png) |
 | ![Professores](./escola/screenshots/professores.png) | ![Relatórios](./escola/screenshots/relatorios.png) |
-| ![Login](./escola/screenshots/login.png) | ![Usuários](./escola/screenshots/usuarios.png) |
+| ![Alunos](./escola/screenshots/alunos.png)| ![Usuários](./escola/screenshots/usuarios.png) |
 
 ## 🛠️ Tech Stack
 
